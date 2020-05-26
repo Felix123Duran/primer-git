@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\bin\Debug\multplicadora.exe.config
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\bin\Debug\multplicadora.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\bin\Debug\multplicadora.pdb
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\obj\Debug\multplicadora.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\obj\Debug\multplicadora.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\multplicadora\obj\Debug\multplicadora.pdb

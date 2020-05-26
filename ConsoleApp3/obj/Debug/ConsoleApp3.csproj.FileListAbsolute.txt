@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

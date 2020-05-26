@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\bin\Debug\mayor_menor.exe.config
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\bin\Debug\mayor_menor.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\bin\Debug\mayor_menor.pdb
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\obj\Debug\mayor_menor.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\obj\Debug\mayor_menor.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\mayor_menor\obj\Debug\mayor_menor.pdb

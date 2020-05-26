@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\obj\Debug\positivo_negativo.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\bin\Debug\positivo_negativo.exe.config
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\bin\Debug\positivo_negativo.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\bin\Debug\positivo_negativo.pdb
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\obj\Debug\positivo_negativo.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\positivo_negativo\obj\Debug\positivo_negativo.pdb

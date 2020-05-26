@@ -1,0 +1,6 @@
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\bin\Debug\multiplo de.exe.config
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\bin\Debug\multiplo de.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\bin\Debug\multiplo de.pdb
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\obj\Debug\multiplo de.csprojAssemblyReference.cache
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\obj\Debug\multiplo de.exe
+C:\Users\Ramon Felix Duran\Desktop\git 1\multiplo de\obj\Debug\multiplo de.pdb
